@@ -4,6 +4,8 @@
 
   /* Add your custom configuration here. */
   "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
     "strict": false
   }
 }
